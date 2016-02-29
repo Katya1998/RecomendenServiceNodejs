@@ -1,0 +1,20 @@
+создание таблицы
+CREATE TABLE users (
+nickname varchar(40),
+pass varchar(40),
+email varchar(40),
+last_activity varchar(40),
+registration_date timestamp,
+gender boolean,
+berthday_date date,
+first_name varchar(40),
+last_name varchar(40)
+);
+
+удаление
+ALTER TABLE users
+DROP COLUMN nickname;
+
+добавление
+ALTER TABLE users
+ADD COLUMN photo text;
