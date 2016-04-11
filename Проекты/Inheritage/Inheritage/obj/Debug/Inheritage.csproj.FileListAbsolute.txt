@@ -1,0 +1,6 @@
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Inheritage\Inheritage\bin\Debug\Inheritage.exe.config
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Inheritage\Inheritage\bin\Debug\Inheritage.exe
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Inheritage\Inheritage\bin\Debug\Inheritage.pdb
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Inheritage\Inheritage\obj\Debug\Inheritage.csprojResolveAssemblyReference.cache
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Inheritage\Inheritage\obj\Debug\Inheritage.exe
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Inheritage\Inheritage\obj\Debug\Inheritage.pdb

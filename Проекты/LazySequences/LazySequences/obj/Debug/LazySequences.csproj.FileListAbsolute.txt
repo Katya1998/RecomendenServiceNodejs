@@ -1,0 +1,6 @@
+c:\users\belov.alexander\documents\visual studio 2013\Projects\LazySequences\LazySequences\bin\Debug\LazySequences.exe.config
+c:\users\belov.alexander\documents\visual studio 2013\Projects\LazySequences\LazySequences\bin\Debug\LazySequences.exe
+c:\users\belov.alexander\documents\visual studio 2013\Projects\LazySequences\LazySequences\bin\Debug\LazySequences.pdb
+c:\users\belov.alexander\documents\visual studio 2013\Projects\LazySequences\LazySequences\obj\Debug\LazySequences.csprojResolveAssemblyReference.cache
+c:\users\belov.alexander\documents\visual studio 2013\Projects\LazySequences\LazySequences\obj\Debug\LazySequences.exe
+c:\users\belov.alexander\documents\visual studio 2013\Projects\LazySequences\LazySequences\obj\Debug\LazySequences.pdb

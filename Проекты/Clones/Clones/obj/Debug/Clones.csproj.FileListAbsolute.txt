@@ -1,0 +1,6 @@
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Clones\Clones\bin\Debug\Clones.exe.config
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Clones\Clones\bin\Debug\Clones.exe
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Clones\Clones\bin\Debug\Clones.pdb
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Clones\Clones\obj\Debug\Clones.csprojResolveAssemblyReference.cache
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Clones\Clones\obj\Debug\Clones.exe
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Clones\Clones\obj\Debug\Clones.pdb

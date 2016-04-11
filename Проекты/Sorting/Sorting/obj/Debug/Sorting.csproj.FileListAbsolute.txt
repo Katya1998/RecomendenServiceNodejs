@@ -1,0 +1,6 @@
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Sorting\Sorting\bin\Debug\Sorting.exe.config
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Sorting\Sorting\bin\Debug\Sorting.exe
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Sorting\Sorting\bin\Debug\Sorting.pdb
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Sorting\Sorting\obj\Debug\Sorting.exe
+c:\users\belov.alexander\documents\visual studio 2013\Projects\Sorting\Sorting\obj\Debug\Sorting.pdb

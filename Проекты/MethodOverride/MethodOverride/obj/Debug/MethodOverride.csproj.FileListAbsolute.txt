@@ -1,0 +1,6 @@
+c:\users\belov.alexander\documents\visual studio 2013\Projects\MethodOverride\MethodOverride\bin\Debug\MethodOverride.exe.config
+c:\users\belov.alexander\documents\visual studio 2013\Projects\MethodOverride\MethodOverride\bin\Debug\MethodOverride.exe
+c:\users\belov.alexander\documents\visual studio 2013\Projects\MethodOverride\MethodOverride\bin\Debug\MethodOverride.pdb
+c:\users\belov.alexander\documents\visual studio 2013\Projects\MethodOverride\MethodOverride\obj\Debug\MethodOverride.csprojResolveAssemblyReference.cache
+c:\users\belov.alexander\documents\visual studio 2013\Projects\MethodOverride\MethodOverride\obj\Debug\MethodOverride.exe
+c:\users\belov.alexander\documents\visual studio 2013\Projects\MethodOverride\MethodOverride\obj\Debug\MethodOverride.pdb
